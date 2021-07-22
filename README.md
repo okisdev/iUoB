@@ -19,6 +19,13 @@ The iUoB's homepage, where you can find all the content on the site.
 Most of the answers to your questions are presented on Help Center, which are updated with the content you need and most of the questions are consolidated and posted to here.
 
 
+## Self Checker
+
+[check.iuob.uk](https://check.iuob.uk)
+
+Self Check before you go to the United Kingdom.
+
+
 ## Status Site
 
 [status.iuob.uk](https://status.iuob.uk)
